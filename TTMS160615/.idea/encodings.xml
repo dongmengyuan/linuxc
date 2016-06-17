@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Common/common.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Common/list.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Common/listTestDrv.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Account_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Account_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/EntityKey_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/EntityKey_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Play_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Play_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Sale_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Sale_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/SalesAnalysis_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/SalesAnalysis_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Schedule_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Schedule_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Seat_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Seat_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Studio_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Studio_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Ticket_Persist.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Persistence/Ticket_Persist.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Account.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Account.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/EntityKey.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/EntityKey.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Play.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Play.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Sale.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Schedule.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Studio.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Studio.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Ticket.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/Service/Ticket.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Account_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Account_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Play_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Play_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Sale_UI.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/Sale_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/SalesAnalysis_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/SalesAnalysis_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Schedule_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Schedule_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Seat_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Seat_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Studio_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Studio_UI.h" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Ticket_UI.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/View/Ticket_UI.h" charset="GB2312" />
+  </component>
+</project>
