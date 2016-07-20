@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/List.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/Common.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Common/Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Studio_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Ticket_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Studio_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Ticket_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Schedule_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Account_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/EntityKey_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Sale_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Account_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/EntityKey_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Play_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Query_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Seat_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Play_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Query_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Seat_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Sale_Persist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Persistence/Schedule_Persist.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/TTMS.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Account.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Schedule.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/SalesAnalysis.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Schedule.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/SalesAnalysis.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Sale.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Seat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Sale.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Seat.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/EntityKey.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Studio.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/EntityKey.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Ticket.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Account.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Play.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Ticket.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Studio.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Service/Play.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Main_Menu.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/SalesAnalysis_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Seat_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Studio_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Seat_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Account_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Query_Play_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Studio_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Queries_Menu.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Account_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Query_Play_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Ticket_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/SalesAnalysis_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Main_Menu.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Play_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Queries_Menu.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Schedule_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Play_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Sale_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Sale_UI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Schedule_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/View/Ticket_UI.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.3.1/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.3.1/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,37 @@
+23:37:02 **** Incremental Build of configuration Default for project TTMS ****
+make all 
+gcc ./Persistence/SalesAnalysis_Persist.c ./Persistence/Seat_Persist.c ./Persistence/Ticket_Persist.c ./Persistence/EntityKey_Persist.c ./Persistence/Query_Persist.c ./Persistence/Sale_Persist.c ./Persistence/Schedule_Persist.c ./Persistence/Studio_Persist.c ./Persistence/Account_Persist.c ./Persistence/Play_Persist.c ./Common/common.c ./Common/listTestDrv.c ./Common/ComFunction.c ./UI/Query_Play_UI.c ./UI/SalesAnalysis_UI.c ./UI/Ticket_UI.c ./UI/Sale_UI.c ./UI/Account_UI.c ./UI/Schedule_UI.c ./UI/Studio_UI.c ./UI/Main_Menu.c ./UI/Play_UI.c ./UI/Seat_UI.c ./Service/EntityKey.c ./Service/Sale.c ./Service/Ticket.c ./Service/SalesAnalysis.c ./Service/Queries_Menu.c ./Service/Studio.c ./Service/Account.c ./Service/Schedule.c ./Service/Play.c ./Service/Seat.c ./TTMS.c -o TTMS  
+./UI/Account_UI.c: 在函数‘Account_UI_Add’中:
+./UI/Account_UI.c:252:21: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+                     gets(data.username);
+                     ^
+./UI/Account_UI.c:260:4: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+    gets(data.password); 
+    ^
+./UI/Studio_UI.c: 在函数‘Studio_UI_Add’中:
+./UI/Studio_UI.c:123:9: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+         gets(rec.ROOM);
+         ^
+./UI/Studio_UI.c:125:9: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+         gets(rec.SIZE);
+         ^
+./UI/Studio_UI.c:127:9: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+         gets(rec.MOD);
+         ^
+./UI/Studio_UI.c:129:9: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+         gets(rec.SEAT);
+         ^
+./UI/Play_UI.c: 在函数‘Play_UI_Add’中:
+./UI/Play_UI.c:163:5: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+     gets(data.name);
+     ^
+./UI/Play_UI.c:165:5: 警告：不建议使用‘gets’(声明于 /usr/include/stdio.h:638) [-Wdeprecated-declarations]
+     gets(data.area);
+     ^
+#@echo compile...
+#gcc  ./Persistence/SalesAnalysis_Persist.o  ./Persistence/Seat_Persist.o  ./Persistence/Ticket_Persist.o  ./Persistence/EntityKey_Persist.o  ./Persistence/Query_Persist.o  ./Persistence/Sale_Persist.o  ./Persistence/Schedule_Persist.o  ./Persistence/Studio_Persist.o  ./Persistence/Account_Persist.o  ./Persistence/Play_Persist.o  ./Common/common.o  ./Common/listTestDrv.o  ./Common/ComFunction.o  ./UI/Query_Play_UI.o  ./UI/SalesAnalysis_UI.o  ./UI/Ticket_UI.o  ./UI/Sale_UI.o  ./UI/Account_UI.o  ./UI/Schedule_UI.o  ./UI/Studio_UI.o  ./UI/Main_Menu.o  ./UI/Play_UI.o  ./UI/Seat_UI.o  ./Service/EntityKey.o  ./Service/Sale.o  ./Service/Ticket.o  ./Service/SalesAnalysis.o  ./Service/Queries_Menu.o  ./Service/Studio.o  ./Service/Account.o  ./Service/Schedule.o  ./Service/Play.o  ./Service/Seat.o  ./TTMS.o  -o TTMS
+#@echo link ...
+#gcc -DDEBUG -c -Wall -Wextra -ggdb -I.  -o all
+
+23:37:04 Build Finished (took 1s.518ms)
+
